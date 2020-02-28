@@ -7,4 +7,5 @@ void main()
     int a;
     int b,c;
     c = a+b;
+    cout<<c;
 }
